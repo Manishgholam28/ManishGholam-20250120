@@ -17,7 +17,7 @@ Identify factors contributing to frequent customer service interactions.
 Translate findings into concrete recommendations for optimizing customer service.
 Suggest strategies to enhance the quality of interactions and reduce repetitive customer inquiries.
 
-**Approach**:
+**Approach** :
 1. Data Exploration:
 Analyze key columns like errand_category, errand_type, errand_action, and errand_channel.
 Compute descriptive statistics and visualize distributions to understand customer interaction trends.
@@ -26,7 +26,8 @@ Compute descriptive statistics and visualize distributions to understand custome
 Use bar charts, pie charts, and other visual tools to illustrate data patterns.
 Highlight top categories contributing to frequent interactions.
 
-**Tools and Technologies**
+**Tools and Technologies** :
+
 Python: For data analysis and visualization.
 Libraries: Pandas, Matplotlib, Plotly, Seaborn, Numpy.
 Visualization Tools: Bar charts, pie charts, heatmaps.
