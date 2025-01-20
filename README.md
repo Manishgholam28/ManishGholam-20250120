@@ -29,8 +29,11 @@ Highlight top categories contributing to frequent interactions.
 **Tools and Technologies** :
 
 Python: For data analysis and visualization.
+
 Libraries: Pandas, Matplotlib, Plotly, Seaborn, Numpy.
+
 Visualization Tools: Bar charts, pie charts, heatmaps.
+
 Data Management: Pandas for exploratory data analysis and manipulation.
 
 
