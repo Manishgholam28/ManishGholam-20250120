@@ -1,7 +1,8 @@
-**Overview**
+**Overview**:
+
 This project focuses on analyzing customer service interaction data to identify patterns and trends that can help improve the quality of interactions, reduce their frequency, and ultimately lower operational costs. The insights generated through this analysis are intended to be shared with various departments to optimize customer service operations and enhance the overall customer experience.
 
-**Objectives**
+**Objectives**:
 1. Exploratory Data Analysis (EDA):
 Conduct foundational descriptive statistics to understand the data.
 Calculate the average number of customer contacts per order.
@@ -16,7 +17,7 @@ Identify factors contributing to frequent customer service interactions.
 Translate findings into concrete recommendations for optimizing customer service.
 Suggest strategies to enhance the quality of interactions and reduce repetitive customer inquiries.
 
-**Approach**
+**Approach**:
 1. Data Exploration:
 Analyze key columns like errand_category, errand_type, errand_action, and errand_channel.
 Compute descriptive statistics and visualize distributions to understand customer interaction trends.
